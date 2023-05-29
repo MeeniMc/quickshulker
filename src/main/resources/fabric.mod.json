@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
   "id": "quickshulker",
-  "version": "1.3.10-1.19.4",
+  "version": "1.4.0-meenimc+1.19.4",
   "name": "Quick Shulker",
   "description": "Quickly open Shulker boxes and more",
   "authors": [
-    "kyrptonaught"
+    "kyrptonaught",
+    "meenimc"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/quick-shulker",
